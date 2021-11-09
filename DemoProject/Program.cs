@@ -7,6 +7,7 @@ namespace DemoProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World from demo8383!");
+            Console.WriteLine("New hello");
         }
     }
 }
