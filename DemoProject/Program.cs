@@ -9,6 +9,7 @@ namespace DemoProject
             Console.WriteLine("Hello World from demo8383!");
             Console.WriteLine("New hello");
             Console.WriteLine("New hello");
+            Console.WriteLine("New hello");
         }
     }
 }
