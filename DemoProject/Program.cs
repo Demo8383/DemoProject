@@ -19,6 +19,7 @@ namespace DemoProject
             Console.WriteLine("New hello 123"); ; ;
             Console.WriteLine("New hello 456"); ; ;
             Console.WriteLine("New hello 777"); ; ;
+            Console.WriteLine("New hello 888");
 
         }
     }
